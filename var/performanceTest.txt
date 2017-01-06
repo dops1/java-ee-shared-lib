@@ -1,0 +1,6 @@
+Performance tests an endpoint.
+
+Usage:
+
+performanceTest(endpoint: "http://myapp:8080/api")
+
